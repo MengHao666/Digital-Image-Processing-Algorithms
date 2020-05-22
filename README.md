@@ -11,3 +11,5 @@ All algorithms have been tested on python3.7 on Ubuntu16.04.
 BTW,This is the homework for "Digital image processing" in BUAA, 2019.
 
 Hope it could help some people,and welcome for any corrections or improvements.
+
+Some methods here are copied or inspired by some open source codes! Thanks for them!
