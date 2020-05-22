@@ -1,6 +1,6 @@
 # Digital-Image-Processing-Algorithms  
 
-**Various image processing algorithms using pure python3.7,opencv4,numpy or qt:**
+**Some image processing algorithms using python3.7,opencv4,numpy or qt:**
   * 1.A Image processing GUI;  
   
   * 2.FFT&amp;IFFT;  
