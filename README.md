@@ -13,7 +13,7 @@
 
 **All algorithms have been tested on python3.7 on Ubuntu16.04.**
 
-**TW,This is the homework for "Digital image processing" in BUAA, 2019.**
+**BTW,This is the homework for "Digital image processing" in BUAA, 2019.**
 
 **Hope it could help some people,and welcome for any corrections or improvements.**
 
