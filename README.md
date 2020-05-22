@@ -16,7 +16,7 @@
 
 **All algorithms have been tested on python3.7 on Ubuntu16.04.**
 
-**BTW,this is the homework for "Digital image processing" course in BUAA, 2020.**
+**BTW,this is the homework for "Digital image processing" course in Beihang University, 2020.**
 
 **Hope it could help some people,and welcome for any corrections or improvements.**
 
