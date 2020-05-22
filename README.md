@@ -18,6 +18,6 @@
 
 **BTW,this is the homework for "Digital Image Processing" course in Beihang University, 2020.**
 
-**Hope it could help some people,and welcome for any corrections or improvements.**
+**Hope it could help ,and welcome for any corrections or improvements.**
 
-**Some methods here are copied or inspired by some open source codes! Thanks to them!**
+**Some codes here are copied or inspired by some open source codes! Thanks to them!**
