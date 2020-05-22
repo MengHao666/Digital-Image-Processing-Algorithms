@@ -11,10 +11,10 @@
   5.RGB color clustering using k-means.  
   
 
-* All algorithms have been tested on python3.7 on Ubuntu16.04.
+**All algorithms have been tested on python3.7 on Ubuntu16.04.**
 
-* TW,This is the homework for "Digital image processing" in BUAA, 2019.
+**TW,This is the homework for "Digital image processing" in BUAA, 2019.**
 
-* Hope it could help some people,and welcome for any corrections or improvements.
+**Hope it could help some people,and welcome for any corrections or improvements.**
 
-* Some methods here are copied or inspired by some open source codes! Thanks to them!
+**Some methods here are copied or inspired by some open source codes! Thanks to them!**
