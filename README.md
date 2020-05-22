@@ -5,13 +5,13 @@
   
   * 2.FFT&amp;IFFT;  
   
-  * 3.Exponential transformation,Histogram_equalization,Median filtering,Laplace image sharpening ;   
+  * 3.Exponential transformation,Histogram equalization,Median filtering, Image sharpening using Laplace operator;   
   
-  * 4.Edge detection using Roberts、Sobel、Prewitt、Laplace ; 
+  * 4.Edge detection using Roberts,Sobel,Prewitt and Laplace operator; 
   
   * 5.Reconstructions using FFT descriptors ;   
   
-  * 6.RGB color clustering using k-means.  
+  * 6.Color clustering of RGB images using K-means.  
   
 
 **All algorithms have been tested on python3.7 on Ubuntu16.04.**
